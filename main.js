@@ -259,7 +259,7 @@ var AuthGuard = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "URLS", function() { return URLS; });
 //export const URLS = "http://localhost:3000/api";
-var URLS = "http://apppets.herokuapp.com/api";
+var URLS = "https://apppets.herokuapp.com/api";
 
 
 /***/ }),
